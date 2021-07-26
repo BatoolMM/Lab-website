@@ -483,11 +483,11 @@ section {
 }
 
 .clients img {
-  width: 40%;
-  filter: grayscale(100);
+  width: 50%;
+/*   filter: grayscale(100); */
   transition: all 0.4s ease-in-out;
   display: inline-block;
-  padding: 15px 0;
+  padding: 10px 0;
 }
 
 .clients img:hover {
